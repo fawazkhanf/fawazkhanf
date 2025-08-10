@@ -20,10 +20,6 @@ I’m a **Generative AI Developer**, passionate about building intelligent, cont
 - **Docker** · **Azure Cloud** (AI Services, App Service, Functions, AKS) · **AWS**  
 - CI/CD Integration  
 
-**📊 Project Coordination & Delivery:**  
-- Client Requirement Analysis · Stakeholder Communication  
-- Task Tracking · Timeline Management · AI Tool Integration  
-
 ---
 
 ## 🔥 Featured Projects  
